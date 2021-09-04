@@ -1,5 +1,5 @@
 var global_val = [];
-var result = [9,5,7,0];
+var result = [9,5,7,1];
 var try_res = [];
 var count = 0;
 let timerInterval;
